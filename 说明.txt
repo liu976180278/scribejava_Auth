@@ -1,0 +1,11 @@
+qq授权说明
+因为scribejava控件不支持QQ，微信，的api所以我从网上找的，学习者不用管，直接拷贝。
+需要我们编写和读懂的就是service和controller两个包下的代码
+scribejava还是很强大的，集成了20多个平台的授权，比如新浪微博，开心网，github等等
+只要懂一两个（前提是要读懂），其他的都copy咯。
+
+本demo就只做了weibo登录案例。因为qq互联和微信互联申请太费时间了。
+
+
+参考学习地址 http://xtuer.github.io/scribe-qq/
+	    https://gitee.com/cng1985/scribejava
