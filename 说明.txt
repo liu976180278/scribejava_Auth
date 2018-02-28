@@ -9,3 +9,6 @@ scribejava还是很强大的，集成了20多个平台的授权，比如新浪微博，开心网，github等等
 
 参考学习地址 http://xtuer.github.io/scribe-qq/
 	    https://gitee.com/cng1985/scribejava
+	    
+	    
+	    请加我雷锋
